@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages+Annotations</folder>
+	<filename>IP087000986.jpg</filename>
+	<path>E:\DATASET\INSECT DATASET\IP102\IP102_v1.1\Detection\VOC2007\JPEGImages+Annotations\IP087000986.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>392</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>86</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>66</ymin>
+			<xmax>372</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>
